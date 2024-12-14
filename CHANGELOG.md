@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`80542fd`](https://github.com/stdlib-js/stdlib/commit/80542fd459075dc2c49f6e529a21bd661129899e) - **docs:** remove note _(by Athan Reines)_
 -   [`d481f26`](https://github.com/stdlib-js/stdlib/commit/d481f264f68deee3497bf73480c2c88efc3a725f) - **feat:** add `ndarray/filter` _(by Athan Reines)_
 
 </details>
