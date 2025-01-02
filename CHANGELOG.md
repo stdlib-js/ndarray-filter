@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-14)
+## Unreleased (2025-01-02)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`f8777ec`](https://github.com/stdlib-js/stdlib/commit/f8777ec116247e8481a20c0798dccfa90baa6171) - **docs:** fix grammar _(by Athan Reines)_
+-   [`2bde288`](https://github.com/stdlib-js/stdlib/commit/2bde288643491a4c317a02fe6b835c81e05e2235) - **docs:** fix grammar _(by Athan Reines)_
 -   [`07c9202`](https://github.com/stdlib-js/stdlib/commit/07c92021666d2b439a239397d54a43e5785b3360) - **refactor:** remove unnecessary variable _(by Athan Reines)_
 -   [`855b8c2`](https://github.com/stdlib-js/stdlib/commit/855b8c255abba003e9505aa3a80105a2e2b6b3a7) - **docs:** add example _(by Athan Reines)_
 -   [`1cc3e09`](https://github.com/stdlib-js/stdlib/commit/1cc3e095080947f8fdd61ea2217f9b3031b9f93b) - **docs:** fix annotation _(by Athan Reines)_
