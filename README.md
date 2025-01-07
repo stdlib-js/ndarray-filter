@@ -237,6 +237,15 @@ console.log( ndarray2array( y ) );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-filter-map`][@stdlib/ndarray/filter-map]</span><span class="delimiter">: </span><span class="description">filter and map elements in an input ndarray to elements in a new output ndarray according to a callback function.</span>
+-   <span class="package-name">[`@stdlib/ndarray-map`][@stdlib/ndarray/map]</span><span class="delimiter">: </span><span class="description">apply a callback to elements in an input ndarray and assign results to elements in a new output ndarray.</span>
+-   <span class="package-name">[`@stdlib/ndarray-reject`][@stdlib/ndarray/reject]</span><span class="delimiter">: </span><span class="description">return a shallow copy of an ndarray containing only those elements which fail a test implemented by a predicate function.</span>
+-   <span class="package-name">[`@stdlib/ndarray-slice`][@stdlib/ndarray/slice]</span><span class="delimiter">: </span><span class="description">return a read-only view of an input ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -318,6 +327,14 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/orders]: https://github.com/stdlib-js/ndarray-orders
 
 <!-- <related-links> -->
+
+[@stdlib/ndarray/filter-map]: https://github.com/stdlib-js/ndarray-filter-map
+
+[@stdlib/ndarray/map]: https://github.com/stdlib-js/ndarray-map
+
+[@stdlib/ndarray/reject]: https://github.com/stdlib-js/ndarray-reject
+
+[@stdlib/ndarray/slice]: https://github.com/stdlib-js/ndarray-slice
 
 <!-- </related-links> -->
 
