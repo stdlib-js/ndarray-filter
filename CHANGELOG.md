@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-04)
+## Unreleased (2026-01-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a5a3d29`](https://github.com/stdlib-js/stdlib/commit/a5a3d29ccbc51f322d2f8d84608411e3ebce3d11) - **docs:** improve doctests for ndarray instances in `ndarray/filter` [(#9606)](https://github.com/stdlib-js/stdlib/pull/9606) _(by Harshit Verma, Athan Reines)_
 -   [`ac2734e`](https://github.com/stdlib-js/stdlib/commit/ac2734ecf26371d363be61dbb4f3448c9cb964d4) - **docs:** address lint errors in TSDoc comments _(by Philipp Burckhardt)_
 -   [`cc71dc2`](https://github.com/stdlib-js/stdlib/commit/cc71dc23c9335d7187844e6a020cff2594679e76) - **docs:** update related packages sections [(#4622)](https://github.com/stdlib-js/stdlib/pull/4622) _(by stdlib-bot)_
 -   [`f8777ec`](https://github.com/stdlib-js/stdlib/commit/f8777ec116247e8481a20c0798dccfa90baa6171) - **docs:** fix grammar _(by Athan Reines)_
@@ -44,9 +45,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harshit Verma
 -   Philipp Burckhardt
 
 </section>
