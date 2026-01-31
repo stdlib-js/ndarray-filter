@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-filter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a shallow copy of an ndarray containing only those elements which pass a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
     "@stdlib/assert-is-function": "^0.2.2",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/blas-base-gcopy": "^0.2.1",
+    "@stdlib/blas-base-gcopy": "^0.2.2",
     "@stdlib/ndarray-base-assert-is-order": "^0.2.2",
     "@stdlib/ndarray-base-buffer-ctors": "^0.3.0",
     "@stdlib/ndarray-base-next-cartesian-index": "^0.2.2",
@@ -71,7 +71,7 @@
     "@stdlib/ndarray-ctor": "^0.2.2",
     "@stdlib/ndarray-to-array": "^0.2.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
-    "@stdlib/utils-nary-function": "^0.2.2",
+    "@stdlib/utils-nary-function": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
@@ -104,7 +104,6 @@
     "select",
     "take"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
