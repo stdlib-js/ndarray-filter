@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import filter from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-filter@esm/index.mjs';
+import filter from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-filter@v0.1.1-esm/index.mjs';
 ```
 
 #### filter( x\[, options], predicate\[, thisArg] )
@@ -189,7 +189,7 @@ import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-arra
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
 var isPositive = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-number' ).isPrimitive;
-import filter from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-filter@esm/index.mjs';
+import filter from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-filter@v0.1.1-esm/index.mjs';
 
 var buffer = discreteUniform( 10, -100, 100, {
     'dtype': 'generic'
