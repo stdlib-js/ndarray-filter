@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-04)
+## Unreleased (2026-11-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`24f7b25`](https://github.com/stdlib-js/stdlib/commit/24f7b25084a90d7d02896ae1086b90b6869a9b15) - **feat:** add float16 dtype support to `ndarray/filter` [(#15232)](https://github.com/stdlib-js/stdlib/pull/15232) _(by Samarth Kolarkar)_
 -   [`6d6b9d4`](https://github.com/stdlib-js/stdlib/commit/6d6b9d42d8904ca49fb55e2ca464780573886aa0) - **bench:** refactor to use string interpolation in `@stdlib/ndarray` [(#11446)](https:-/github.com/stdlib-js/stdlib/pull/11446) _(by Karan Anand)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 -   Samarth Kolarkar
 
 </section>
